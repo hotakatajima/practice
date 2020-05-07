@@ -23,6 +23,7 @@ $dog = new Dog();
 $dog->attack(30);
 echo $dog->getPower();
 echo "<br>";
+echo "<br>";
 echo $dog->honk();
 
 ?>
